@@ -1,4 +1,4 @@
-# Welcome to the course HSRW EE_3.07: <br>Fundamentals of Geodata Management Systems!
+# Welcome to the course HSRW EE_8136: <br>Fundamentals of Geodata Management Systems!
 
 This is an **EXAM ONLY** repository for **Summer Semester SS2023.**
 
