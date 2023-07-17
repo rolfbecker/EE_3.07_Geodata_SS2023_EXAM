@@ -1,4 +1,4 @@
-# EE_3.07 Geodata Management Systems WS2022/23 - <br> Final Assignment
+# EE_3.07 Geodata Management Systems SS2023 - <br> Final Assignment
 
 ## 0. General Remarks
 
